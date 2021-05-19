@@ -1,0 +1,17 @@
+.form textarea {
+
+    resize: none;
+}
+
+
+.form input,  .form textarea {
+
+outline: none;
+
+}
+
+
+.form ::placeholder {
+
+    color: rgba(153, 104, 104, 0.904);
+}
